@@ -4,5 +4,9 @@
   "description": "An encoding like base64, hex, base58 etc. that looks cooler.",
   "main": "index.js",
   "author": "Cillié Malan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cilliemalan/crazycode.git"
+  }
 }
