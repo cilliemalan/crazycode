@@ -1,6 +1,6 @@
 {
   "name": "crazycode",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "An encoding like base64, hex, base58 etc. that looks cooler.",
   "main": "index.js",
   "author": "Cillié Malan",
