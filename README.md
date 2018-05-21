@@ -5,21 +5,22 @@ and vice-versa. The main differentiator to the previously mentioned encodings is
 crazycode is way cooler.
 
 ## Examples
-
-Input: `[1,2,3,4,5]`
-Hex: 0102030405
+```
+Input:  [1,2,3,4,5]
+Hex:    0102030405
 Base64: AQIDBAU=
-crazy: uԿખՓЗ
+crazy:  uԿખՓЗ
 
-Input: `[100,33,42,209,87]`
-Hex: 64212ad157
+Input:  [100,33,42,209,87]
+Hex:    64212ad157
 Base64: ZCEq0Vc=
-crazy: ｶɔઙ4ﾊ
+crazy:  ｶɔઙ4ﾊ
 
 Input: (32 random bytes)
-Hex: 8262d0c3f0d78c73e00770f68b6f94abe5153d696074e5f755bd7497351675c6
+Hex:    8262d0c3f0d78c73e00770f68b6f94abe5153d696074e5f755bd7497351675c6
 Base64: gmLQw/DXjHPgB3D2i2+Uq+UVPWlgdOX3Vb10lzUWdcY=
-crazy: ΔથﾃιમﾘՐՒｪԱmTઌબઋMηldOՔxηyﾅγxધoДʇｽ
+crazy:  ΔથﾃιમﾘՐՒｪԱmTઌબઋMηldOՔxηyﾅγxધoДʇｽ
+```
 
 ## Notes
 crazycode will fail to output correctly if the destination (e.g. the console) does not
@@ -80,4 +81,4 @@ console.log(decoded);
 ```
 
 # License
-MIT License. Copyright 2008 (c) Cillié Malan. See LICENSE.
+MIT License. Copyright 2018 (c) Cillié Malan. See LICENSE.
