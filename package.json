@@ -1,7 +1,13 @@
 {
   "name": "crazycode",
-  "version": "1.0.0-alpha.1",
-  "preview": true,
+  "version": "1.0.0",
+  "keywords": [
+    "encoding",
+    "decode",
+    "encode",
+    "crazy",
+    "crazycode"
+  ],
   "description": "An encoding like base64, hex, base58 etc. that looks cooler.",
   "main": "index.js",
   "author": "Cillié Malan",
