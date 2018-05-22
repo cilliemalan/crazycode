@@ -18,7 +18,7 @@ crazycode will work in most browsers and most terminals. In most browsers and ed
 crazycode output will be considered as a single word and double clicking should select
 all of the text.
 
-[!selecting](https://i.imgur.com/JzqvXOj.gif)
+![selecting](https://i.imgur.com/JzqvXOj.gif)
 
 ## Examples
 ```
@@ -40,14 +40,14 @@ crazy:  ӻվƕɇʃɽѫӟʝπԧǌбhџǉжոɛɱӈҳжçκքҳѭաҥɀv
 
 ## Notes
 crazycode will fail to output correctly if the destination (e.g. the console) does not
-support unicode.
+support unicode (e.g. the Windows cmd console by default).
 
 crazycode (like base64, base58, and hex) does not make the data smaller. It will in practice result
-in data that is about twice as big source data. The output, however, will *look* shorter
-than base64, base58, or hex (see examples). All of the characters used in crazycode
+in data that is *way* bigger than the source data. The output, however, will *look* shorter
+than base64, base58, or hex (see examples below). All of the characters used in crazycode
 are letters or numbers, so crazycode output can usually be selected in its entirety by
-double clicking it (like in a text editor or browser). Furthermore there are 256 possible characters for crazycode so the output will have the same number of characters as there are bytes in the
-input.
+double clicking it. Furthermore there are 256 possible characters for crazycode so the
+output will have the same number of characters that the input has bytes.
 
 # Using crazycode
 How to use:
